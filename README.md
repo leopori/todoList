@@ -4,7 +4,7 @@
 
 /todo
 GET (Get all the todo list even if they are not finish or done)
-POSt (Add a new ToDo to the list)
+POST (Add a new ToDo to the list)
 
 /todo/:id
 
